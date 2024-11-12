@@ -7,3 +7,4 @@ IT00AK39-3002 Cybersecurity and data privacy
 | 05.11.2024 | ~2 hrs | introduction to cybersec | completed the course |
 | 09.11.2024 | ~4 hrs | portswigger & related recordings | did 10 sql injection labs O_O and watched recordings |
 | 10.11.2024 | ~2 hrs | portswigger | did 3 authentication and 3 access control labs |
+| 12.11.2024 | ~1 hr | itslearning | did task Introduction to the portswigger environment |
