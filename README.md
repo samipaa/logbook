@@ -9,4 +9,14 @@ IT00AK39-3002 Cybersecurity and data privacy
 | 10.11.2024 | ~2 hrs | portswigger | did 3 authentication and 3 access control labs |
 | 12.11.2024 | ~1 hr | itslearning | did task Introduction to the portswigger environment |
 | 13.11.2024 | ~5 hrs | booking system & itslearning | read through the material and almost finished the booking system |
-| 16.11.2024 | ~2 hrs | booking system | testing out stuff |
+| 16.11.2024 | ~2 hrs | booking system | testing |
+| 19.11.2024 | ~1 hr | booking system | testing |
+| 20.11.2024 | ~2 hrs | booking system | 1st phase done, pushed changes |
+| xxx | xxx | report 1 | https://github.com/samipaa/booking/blob/main/report1.md |
+| xxx | xxx | report 1 | added CSP & nosniff headers and implemented Zod on the server |
+| xxx | xxx | report 2 | https://github.com/samipaa/booking/blob/main/report2.md |
+| xxx | xxx | report 2 | Zap still thinks an SQLi vulnerability is present |
+| xxx | xxx | report 2 | and I need to uninline some parts of the register page apparently |
+| xxx | xxx | report 2 | for the CSP to work properly. |
+| xxx | xxx | report 2 | I need to tackle these and the others later on |
+
