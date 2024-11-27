@@ -19,5 +19,5 @@ IT00AK39-3002 Cybersecurity and data privacy
 | xxx | xxx | xxx | and I need to uninline some parts of the register page apparently |
 | xxx | xxx | xxx | for the CSP to work properly. |
 | xxx | xxx | xxx | I need to tackle these and the others later on |
-| 27.11.2024 | ~2 hrs | booking system | login page |
+| 27.11.2024 | ~4 hrs | booking system & lecture recording | implemented login page and watched recordings |
 
