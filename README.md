@@ -20,4 +20,11 @@ IT00AK39-3002 Cybersecurity and data privacy
 | xxx | xxx | xxx | for the CSP to work properly. |
 | xxx | xxx | xxx | I need to tackle these and the others later on |
 | 27.11.2024 | ~5 hrs | booking system & lecture recording | preparing to submit phase 2 and watched recordings |
+| 29.11.2024 | ~3 hrs | booking system | 2nd phase done, pushed changes |
+| xxx | xxx | report 1 | https://github.com/samipaa/booking/blob/main/report3.md |
+| xxx | xxx | xxx | I implemented the login and index pages |
+| xxx | xxx | xxx | with login logs (IP logging is left out for now) |
+| xxx | xxx | xxx | and I changed the req handling code a bit |
+| xxx | xxx | report 2 | https://github.com/samipaa/booking/blob/main/report4.md |
+| xxx | xxx | xxx | added anti-clickjacking header |
 
