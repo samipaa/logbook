@@ -27,4 +27,8 @@ IT00AK39-3002 Cybersecurity and data privacy
 | xxx | xxx | xxx | and I changed the req handling code a bit |
 | xxx | xxx | report 2 | https://github.com/samipaa/booking/blob/main/report4.md |
 | xxx | xxx | xxx | added anti-clickjacking header |
-
+| 08.12.2024 | ~6 hrs | booking system & itslearning & lecture recording | submitted phase 3 and watched recordings afterwards |
+| xxx | xxx | report | https://github.com/samipaa/booking/blob/main/report.md |
+| xxx | xxx | xxx | I used the attached zip file. |
+| xxx | xxx | xxx | I want to say that honestly the report looks like it's written by a language model |
+| xxx | xxx | xxx | but I promise it's entirely thought of and written by me :D |
