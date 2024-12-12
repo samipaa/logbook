@@ -32,3 +32,8 @@ IT00AK39-3002 Cybersecurity and data privacy
 | xxx | xxx | xxx | I used the attached zip file. |
 | xxx | xxx | xxx | I want to say that honestly the report looks like it's written by a language model |
 | xxx | xxx | xxx | but I promise it's entirely thought of and written by me :D |
+| 12.12.2024 | ~3 hrs | booking system & itslearning | 4th phase done |
+| xxx | xxx | report | https://github.com/samipaa/booking2/blob/main/report.md |
+| xxx | xxx | xxx | I used the attached zip file |
+| xxx | xxx | xxx | I made a new repo for the assignment |
+
