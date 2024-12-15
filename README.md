@@ -36,4 +36,5 @@ IT00AK39-3002 Cybersecurity and data privacy
 | xxx | xxx | report | https://github.com/samipaa/booking2/blob/main/report.md |
 | xxx | xxx | xxx | I used the attached zip file |
 | xxx | xxx | xxx | I made a new repo for the assignment |
+| 15.12.2024 | ~3 hrs | itslearning | submitted final phase |
 
